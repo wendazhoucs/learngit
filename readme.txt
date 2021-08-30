@@ -1,4 +1,4 @@
-Git is a version contral system.
-GIt is a free software.
+Git is a great version contral system.
+GIt is a great free software.
 
 Second change
